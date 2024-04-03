@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/64e46525-636c-40e1-87e6-3a6e5953fb0d/resourceGroups/TPF-lab2/providers/Microsoft.Web/sites/TPF-lab2",
+    "appService.deploySubpath": "."
+}
